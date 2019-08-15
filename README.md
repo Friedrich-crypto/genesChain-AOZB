@@ -1,0 +1,2 @@
+# genesChain-AOZB
+./bin/aozb
